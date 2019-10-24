@@ -14,4 +14,4 @@ class App < Sinatra::Base	class App < Sinatra::Base
     erb :piglatinize
   end
 
-end 	end 
+end 	
